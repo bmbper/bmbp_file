@@ -8,7 +8,3 @@ description.workspace = true
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-bmbp_file_core = { path = "../bmbp_file_core" }
-bmbp_file_client = { path = "../bmbp_file_client" }
-bmbp_file_server = { path = "../bmbp_file_server" }
-bmbp_file_monitor = { path = "../bmbp_file_monitor" }
